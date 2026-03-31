@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# binaries
+fl
+hxd
+nlaeof
