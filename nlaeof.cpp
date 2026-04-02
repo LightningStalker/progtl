@@ -43,7 +43,6 @@ main(int argc, char* argv[])
         {
             filename = argv[1];
             desired  = stoi(argv[2]);
-            cout << desired << ", " << argv[2] << endl;
             if(desired > 100)
             {
                 cerr << "ERROR: Do you really want "
