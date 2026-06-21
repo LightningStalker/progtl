@@ -1,6 +1,7 @@
 # progtl
 Programmers Tools
 ## Description
+* ` ascksum     `- 8-bit sum generator for each line
 * ` fl          `- Hex dumper demo #1
 * ` hxd.cpp     `- Hex dumper demo #2
 * ` hxd.hpp     `- Hex dump the character arrays to stdout for debug... It can do strings or streams with pretty easy mods.
